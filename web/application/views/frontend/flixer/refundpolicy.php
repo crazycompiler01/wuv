@@ -5,7 +5,7 @@
 	<!-- logo -->
 	<div style="float: left;">
 		<a href="<?php echo base_url();?>index.php?home">
-		<img src="<?php echo base_url();?>/assets/global/logo.png" style="margin: 18px 40px; height: 35px;" />
+		<img src="<?php echo base_url();?>/assets/global/logo.png" style="margin: 18px 15px; height: 35px;" />
 		</a>
 	</div>
 </div>
