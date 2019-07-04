@@ -23,8 +23,8 @@
 				</li>
 			</ul>
 			<form method="post" action="">
-				<div class="table-responsive">
-					<table class="table  table-hover" style="color: #fff; background-color: rgba(255,255,255,0.2);">
+				<div class="table-responsive" style="background-color: rgba(255,255,255,0.2);">
+					<table class="table  table-hover" style="color: #fff; background-color: transparent; ">
 						<tbody>
 							<tr>
 								<td>

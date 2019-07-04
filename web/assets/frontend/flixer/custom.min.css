@@ -956,6 +956,7 @@ footer a
     }
     footer li
     {
-        margin: 30px 10px 30px;
+        margin: 30px 5px;
+        font-size: 14px;
     }
 }
